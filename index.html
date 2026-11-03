@@ -1,0 +1,24 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI//热榜 · 全网AI热点情报终端</title><link rel="stylesheet" href="css/style.css">
+<script src="js/vendor/echarts.min.js"></script>
+<script src="js/vendor/echarts-wordcloud.min.js"></script></head><body>
+<canvas id="rain"></canvas><div class="crt"></div><div id="boot"><pre id="bootTxt"></pre></div>
+<header class="panel"><div class="logo"><span class="glitch" data-t="AI//热榜">AI//热榜</span><small>全网AI热点情报终端 · <span id="clock"></span></small></div>
+<div class="stats"><div><b id="sPlat">0</b><span>在线平台</span></div><div><b id="sTotal">0</b><span>热榜条目</span></div><div><b id="sAi">0</b><span>AI相关</span></div><div><b id="sAlert" class="r">0</b><span>预警</span></div><div><b id="countdown">--</b><span>秒后同步</span></div>
+<button id="refresh">[ 立即同步 ]</button></div></header>
+<div class="ticker panel"><span class="tlabel">AI快讯 ▶</span><div class="tw"><div id="ticker"></div></div></div>
+<div class="bar"><nav id="tabs"></nav><div class="tools"><input id="search" placeholder="$ grep 搜索全网热榜…"><label class="sw"><input type="checkbox" id="aiOnly" checked><span>仅看AI</span></label></div></div>
+<section id="cards"></section>
+<h3 class="sec">&gt;&gt; 情报分析 / 预警系统</h3>
+<main>
+<section class="panel alerts"><h2>&gt; 预警中心 <span class="blink">●</span></h2>
+<div class="kw"><input id="kwInput" placeholder="+ 添加预警关键词，回车"><div id="kwTags"></div></div>
+<div class="toggles"><label><input type="checkbox" id="notifyT"> 浏览器通知</label><label><input type="checkbox" id="soundT"> 声音</label></div>
+<div class="legend"><i class="red"></i>红 AI登上大众热榜前10/排名飙升 <i class="orange"></i>橙 关键词进前20 <i class="yellow"></i>黄 关键词命中</div><ul id="alertList"></ul></section>
+<section class="panel radarP"><h2>&gt; 雷达扫描</h2><canvas id="radar"></canvas></section>
+<section class="panel co"><h2>&gt; 公司/模型提及排行</h2><div id="cCo" class="chart"></div></section>
+<section class="panel cloud"><h2>&gt; AI关键词热度云</h2><div id="cCloud" class="chart"></div></section>
+<section class="panel src"><h2>&gt; 各平台AI浓度</h2><div id="cSrc" class="chart"></div></section>
+<section class="panel term"><h2>&gt; 系统日志 tail -f</h2><pre id="log"></pre></section>
+</main><footer>数据：百度 · 头条 · 知乎 · B站 · 36氪 · IT之家 · cnBeta · 极客公园 · 爱范儿 · 少数派 · 掘金 · CSDN · 开源中国 · V2EX ｜ GitHub Actions 每15分钟抓取 · 数据更新于 <span id="cnUpd">-</span></footer>
+<script src="js/app.js"></script></body></html>
