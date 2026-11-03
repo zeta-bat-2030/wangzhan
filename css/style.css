@@ -56,3 +56,6 @@ ul{list-style:none;overflow:auto}#alertList{max-height:190px}::-webkit-scrollbar
 footer{text-align:center;font-size:11px;color:var(--dim);padding:16px}
 @media(max-width:1000px){main{grid-template-columns:1fr 1fr;grid-template-areas:"alerts radar" "co cloud" "src term"}}
 @media(max-width:700px){main{grid-template-columns:1fr;grid-template-areas:"alerts" "radar" "co" "cloud" "src" "term"}.glitch{font-size:22px}#search{width:150px}#cards{grid-template-columns:1fr}}
+.br{display:flex;align-items:center;gap:8px;font-size:12px;margin:5px 0}.br span{width:110px;text-align:right;color:#8fffc8;white-space:nowrap;overflow:hidden}.br i{flex:1;height:10px;background:#06301f}.br b{display:block;height:100%;background:linear-gradient(90deg,#004d33,#00ff9c);box-shadow:0 0 8px #00ff9c;transition:width .8s}.br em{font-style:normal;color:#0f9;min-width:34px}
+#cCloud{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:center;justify-content:center;overflow:hidden;align-content:center}#cCloud span{text-shadow:0 0 6px currentColor;line-height:1.1}
+#boot{cursor:pointer}
