@@ -74,10 +74,10 @@ $('notifyT').checked=localStorage.notify==='1';$('soundT').checked=localStorage.
 $('notifyT').onchange=e=>{localStorage.notify=e.target.checked?1:0;if(e.target.checked&&'Notification'in window)Notification.requestPermission();};$('soundT').onchange=e=>localStorage.sound=e.target.checked?1:0;
 setInterval(()=>{cd--;$('countdown').textContent=cd;$('clock').textContent=new Date().toLocaleString('zh-CN',{hour12:false});if(cd<=0)load();},1000);
 function brief(){const H=['cdn.jsdmirror.com','cdn.jsdmirror.cn','gcore.jsdelivr.net','testingcf.jsdelivr.net','fastly.jsdelivr.net','cdn.jsdelivr.net'];const M=['data/daily_summary.json?_='+Date.now(),...H.map(h=>`https://${h}/gh/zeta-bat-2030/ai-radar@main/data/daily_summary.json`)];
- let best=null,shown=false;const show=d=>{const S=d.summary||{};if(!S.bullets)return;const e=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[c]);const today=new Date().toLocaleDateString('sv-SE');
+ let best=null;const show=d=>{const S=d.summary||{};if(!S.bullets)return;const e=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[c]);const today=new Date().toLocaleDateString('sv-SE');
   $('bMeta').textContent=` ${d.date}${d.date!==today?' · 昨日简报':''} · 模型 ${d.model||'-'}${S.fallback?' · AI摘要暂不可用':''}`;
   $('bList').innerHTML=S.bullets.map(b=>`<li>${e(b.text)}${(b.links||[]).map(l=>`<a href="${e(l.url)}" target="_blank" rel="noopener">[${e(l.src)}↗]</a>`).join('')}</li>`).join('');
   $('bAl').innerHTML=(S.alerts||[]).map(a=>`<span class="bal ${e(a.level)}">⚠ ${e(a.text)}</span>`).join('');$('bTags').innerHTML=(S.tags||[]).map(t=>`<span>#${e(t)}</span>`).join('');
-  $('brief').hidden=false;const h=S.headline||'',el=$('bHead');let i=0;el.textContent='';const t=setInterval(()=>{el.textContent=h.slice(0,++i);if(i>=h.length)clearInterval(t)},45);};
- M.forEach((u,i)=>setTimeout(()=>{if(shown)return;const c=new AbortController();setTimeout(()=>c.abort(),10000);fetch(u,{signal:c.signal}).then(r=>r.ok?r.json():Promise.reject()).then(j=>{if(!shown&&(!best||j.generated_at>=best.generated_at)){best=j;shown=true;show(j);log('简报来源 '+(u.split('/')[2]||'本站'))}}).catch(()=>{})},i*150));}
+  $('brief').hidden=false;const h=S.headline||'',el=$('bHead');let i=0;el.textContent='';clearInterval(window._bt);const t=window._bt=setInterval(()=>{el.textContent=h.slice(0,++i);if(i>=h.length)clearInterval(t)},45);};
+ M.forEach((u,i)=>setTimeout(()=>{const c=new AbortController();setTimeout(()=>c.abort(),10000);fetch(u,{signal:c.signal}).then(r=>r.ok?r.json():Promise.reject()).then(j=>{if(!best||j.generated_at>best.generated_at){best=j;show(j);log('简报来源 '+(u.split('/')[2]||'本站'))}}).catch(()=>{})},i*150));}
 boot();load();setTimeout(brief,50);

@@ -37,7 +37,7 @@ def build_prompt(items):
 
 def call(base, key, model, prompt, timeout=90):
     body = json.dumps({"model": model, "messages": [{"role": "user", "content": prompt}],
-                       "temperature": 0.3, "max_tokens": 4000}).encode()
+                       "temperature": 0.3, "response_format": {"type": "json_object"}, "max_tokens": 4000}).encode()
     req = urllib.request.Request(base.rstrip("/") + "/v1/chat/completions", data=body,
           headers={"Content-Type": "application/json", "Authorization": "Bearer " + key})
     with urllib.request.urlopen(req, timeout=timeout) as r:
@@ -48,8 +48,14 @@ def call(base, key, model, prompt, timeout=90):
     return txt, j.get("model", model)
 
 def parse(txt):
+    txt = re.sub(r"```(?:json)?", "", txt)
     m = re.search(r"\{.*\}", txt, re.S)
-    return json.loads(m.group(0)) if m else None
+    if not m: return None
+    t = m.group(0)
+    for cand in (t, re.sub(r",\s*([}\]])", r"\1", t), re.sub(r",\s*([}\]])", r"\1", t.replace("“", '"').replace("”", '"'))):
+        try: return json.loads(cand)
+        except Exception: pass
+    raise ValueError("JSON 解析失败")
 
 def main():
     ap = argparse.ArgumentParser()
@@ -58,7 +64,7 @@ def main():
     ap.add_argument("--model", action="append", help="可多次指定，按顺序回退")
     ap.add_argument("--max-items", type=int, default=40)
     a = ap.parse_args()
-    models = a.model or ["free", "gemma4", "nemotron-lightning"]
+    models = a.model or ["free", "nemotron-ultra", "free", "gemma4", "nemotron-lightning", "free"]
     OUT.mkdir(exist_ok=True)
     updated, items = load_items(a.max_items)
     prompt = build_prompt(items)
@@ -91,7 +97,7 @@ def main():
                 print(f"[{m}] HTTP {e.code}（429=免费限流），尝试下一个"); res["status"] = f"error {e.code}"
             except Exception as e:
                 print(f"[{m}] 失败: {type(e).__name__}: {str(e)[:120]}"); res["status"] = "error"
-            time.sleep(2)
+            time.sleep(5)
         if res["status"] != "ok":
             print("全部模型失败，不覆盖旧结果"); sys.exit(2)
             res["summary"] = {"headline": "AI 摘要暂不可用，以下为今日AI热点标题", "bullets": [{"text": x["title"], "refs": [i+1]} for i, x in enumerate(items[:8])], "fallback": True}
