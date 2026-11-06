@@ -1,376 +1,411 @@
 {
- "date": "2026-11-05",
- "generated_at": "2026-11-05T10:56:05",
- "source_updated": 1793870252247,
+ "date": "2026-11-06",
+ "generated_at": "2026-11-06T11:06:18",
+ "source_updated": 1793964253780,
  "items": [
   {
-   "title": "《嫁金钗》忘删AI水印背后的真问题",
-   "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%AB%81%E9%87%91%E9%92%97%E3%80%8B%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0%E8%83%8C%E5%90%8E%E7%9A%84%E7%9C%9F%E9%97%AE%E9%A2%98&sa=fyb_news",
+   "title": "英伟达价值7605万元芯片被劫",
+   "url": "https://m.baidu.com/s?word=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BB%B7%E5%80%BC7605%E4%B8%87%E5%85%83%E8%8A%AF%E7%89%87%E8%A2%AB%E5%8A%AB&sa=fyb_news",
    "src": "百度热搜"
   },
   {
-   "title": "如何评价 DeepSeek 工程师高熙说的「AI竞赛中，真正的对手不是其他大模型公司，而是时间」？",
-   "url": "https://www.zhihu.com/question/2101053619059389232",
+   "title": "男子心梗前给豆包打电话救了自己",
+   "url": "https://www.toutiao.com/trending/7704832496403496996/",
+   "src": "今日头条"
+  },
+  {
+   "title": "为何说美股暴跌对美AI产业未必是坏事",
+   "url": "https://www.toutiao.com/trending/7704862419243240986/",
+   "src": "今日头条"
+  },
+  {
+   "title": "民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？",
+   "url": "https://www.zhihu.com/question/2101977105504235968",
    "src": "知乎热榜"
   },
   {
-   "title": "「AI教父」辛顿警告，今明两年就有可能发生人工智能领域的切尔诺贝利事故，可能是什么情况？存在哪些隐患？",
-   "url": "https://www.zhihu.com/question/2101374444023146456",
+   "title": "美国多州州长拟暂停审批 AI 数据中心，将对算力基建产生哪些连锁反应？",
+   "url": "https://www.zhihu.com/question/2101356243331839893",
    "src": "知乎热榜"
   },
   {
-   "title": "阿黄有房了【AI全民制作人】",
-   "url": "https://www.bilibili.com/video/BV17d4g6fEAi",
-   "src": "哔哩哔哩"
+   "title": "美股史诗级暴跌，单日蒸发约 2.8 万亿美元，AI 产业链集体崩盘，是单纯监管预期利空还是大行情拐点？",
+   "url": "https://www.zhihu.com/question/2101822062662886692",
+   "src": "知乎热榜"
   },
   {
-   "title": "《异环》曳尔沐EP丨Here we are again",
-   "url": "https://www.bilibili.com/video/BV1NWxT6cEEe",
-   "src": "哔哩哔哩"
+   "title": "曝 DeepSeek V5 将采用华为昇腾 950 芯片作为核心训练算力，这意味着什么？",
+   "url": "https://www.zhihu.com/question/2100918856617288554",
+   "src": "知乎热榜"
   },
   {
-   "title": "突发：Claude Code 「产品一姐」加入OpenAI，前一天刚宣布离职",
-   "url": "https://36kr.com/p/4056162615350407",
+   "title": "如何评价DeepSeek Harness公布日活用户达150万？这会影响AI编程和智能体市场的竞争吗？",
+   "url": "https://www.zhihu.com/question/2101823381955990842",
+   "src": "知乎热榜"
+  },
+  {
+   "title": "刚刚，GPT-6 Cyber 正式发布，AI 最强的矛也成了最强的盾",
+   "url": "https://36kr.com/p/4057467760661378",
    "src": "36氪"
   },
   {
-   "title": "普林斯顿CS女学霸，突然告别Anthropic，一手带火Claude Code",
-   "url": "https://36kr.com/p/4055331476526214",
+   "title": "突发：李飞飞最新 AI 成果发布，把世界模型装进复古掌机，单张图实时跑出 15 帧",
+   "url": "https://36kr.com/p/4057553085404038",
    "src": "36氪"
   },
   {
-   "title": "字节扣子、腾讯元器接连下线：大厂AI产品洗牌清退潮",
-   "url": "https://36kr.com/p/4055286987838595",
+   "title": "一夜变天，奥特曼刚改名「Ram」，芯片股全崩 AI 基建踩刹车",
+   "url": "https://36kr.com/p/4057751358100359",
    "src": "36氪"
   },
   {
-   "title": "Anthropic微微发力，AI中转站的天就要塌了？",
-   "url": "https://36kr.com/p/4056019887510401",
+   "title": "Gemini 正在成为美国师生「不得不用」的 AI",
+   "url": "https://36kr.com/p/4056805917873029",
    "src": "36氪"
   },
   {
-   "title": "当AI不再「夸夸其谈」：决策模型爆红，物理世界需要端侧「快判断」",
-   "url": "https://36kr.com/p/4055330063766663",
+   "title": "谷歌视频新模型双榜第一，力压Grok、Seedance，价格再砍三成",
+   "url": "https://36kr.com/p/4057626189534338",
    "src": "36氪"
   },
   {
-   "title": "刚刚，GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由",
-   "url": "https://36kr.com/p/4056223296558215",
+   "title": "GPT-6.2 Astra 要来了，厉娜",
+   "url": "https://36kr.com/p/4057431368782726",
    "src": "36氪"
   },
   {
-   "title": "辟谣，Anthropic IPO没撤回，但万亿AI泡沫缩水让华尔街怕了",
-   "url": "https://36kr.com/p/4056128858215556",
+   "title": "美股一夜蒸发万亿美元，AI泡沫破了？",
+   "url": "https://36kr.com/p/4057568656446592",
    "src": "36氪"
   },
   {
-   "title": "雷军最新发布：小米机器人生产小米汽车",
-   "url": "https://36kr.com/p/4054998109508738",
+   "title": "OpenAI收购神秘团队，奥特曼要在Codex里再造一个GitHub",
+   "url": "https://36kr.com/p/4056787186881670",
    "src": "36氪"
   },
   {
-   "title": "Personal Agent，超级共识还是超级泡沫？",
-   "url": "https://36kr.com/p/4056172613964676",
+   "title": "AI毛绒翻车惨案频发，这届消费者开始抵制“AI设计潮玩”？",
+   "url": "https://36kr.com/p/4056805855138688",
    "src": "36氪"
   },
   {
-   "title": "Claude工程师Agent大教程：如何防止被AI养废",
-   "url": "https://36kr.com/p/4056027738116995",
+   "title": "英伟达CPU下场，要推翻Chiplet？",
+   "url": "https://36kr.com/p/4056700305789831",
    "src": "36氪"
   },
   {
-   "title": "如果显卡、内存都被AI抢走，凭什么还需要AI？",
-   "url": "https://36kr.com/p/4055350289699717",
+   "title": "Claude进化速度翻倍了，80%增量来自AI",
+   "url": "https://36kr.com/p/4057518313690248",
    "src": "36氪"
   },
   {
-   "title": "中国AI爆款诞生：Sand.ai融资2亿美元",
-   "url": "https://36kr.com/p/4056244763513734",
-   "src": "36氪"
-  },
-  {
-   "title": "硅谷大厂，靠AI游戏抢最后的钱景",
-   "url": "https://36kr.com/p/4055286221099912",
-   "src": "36氪"
-  },
-  {
-   "title": "文科生在AI时代没人要？我盘了盘字节、腾讯和阿里都有哪些AI岗在招文科生",
-   "url": "https://36kr.com/p/4055273095353476",
-   "src": "36氪"
-  },
-  {
-   "title": "从AI医生到AI医院，紫荆智康如何打开医疗AI的商业空间？",
-   "url": "https://36kr.com/p/4055314545890434",
-   "src": "36氪"
-  },
-  {
-   "title": "个人Agent上桌，谁先露了怯？",
-   "url": "https://36kr.com/p/4055385191224452",
-   "src": "36氪"
-  },
-  {
-   "title": "5000词需求文档，Claude也只能交付14%，实测28种Agent组合",
-   "url": "https://36kr.com/p/4055331535229830",
-   "src": "36氪"
-  },
-  {
-   "title": "Claude Code承认Token浪费，每30秒重读整段对话，只为生成一行状态",
-   "url": "https://36kr.com/p/4056255491183745",
-   "src": "36氪"
-  },
-  {
-   "title": "OpenAI 总裁布罗克曼：AI 或将能让死亡成为一种选择",
-   "url": "https://www.ithome.com/1/022/901.htm",
+   "title": "爱彼迎 Airbnb 计划明年推出 AI 智能体，帮助用户规划旅行",
+   "url": "https://www.ithome.com/1/023/498.htm",
    "src": "IT之家"
   },
   {
-   "title": "百度文心开源发布 ERNIE 5.5 Flash Base 高效基座模型，总参数 280B",
-   "url": "https://www.ithome.com/1/022/785.htm",
+   "title": "智元发布灵犀 X2 焕新版机器人，可用于展馆文旅、导览导购、服务零售、文娱商演等场景",
+   "url": "https://www.ithome.com/1/023/497.htm",
    "src": "IT之家"
   },
   {
-   "title": "中国长安汽车首例涂装视觉 AI 刷胶机器人上线，风险识别检出率与报送准确率均超 99.5%",
-   "url": "https://www.ithome.com/1/022/779.htm",
+   "title": "不法分子假借“AITO”名义发送诈骗短信，问界汽车声明并无所谓“气囊召回”事项",
+   "url": "https://www.ithome.com/1/023/471.htm",
    "src": "IT之家"
   },
   {
-   "title": "原生应用 +1：豆包工作鸿蒙电脑版本完成开发，已上架 AppGallery 应用市场",
-   "url": "https://www.ithome.com/1/022/778.htm",
+   "title": "国家广电总局：到 2030 年，广电视听行业人工智能渗透率达到 95% 及以上",
+   "url": "https://www.ithome.com/1/023/464.htm",
    "src": "IT之家"
   },
   {
-   "title": "学校不用 Gemini 就不能用搜索？谷歌新规引发美国政界人士批评",
-   "url": "https://www.ithome.com/1/022/773.htm",
-   "src": "IT之家"
-  },
-  {
-   "title": "机器人格斗表演为什么不如去年有看头了？宇树科技 CEO 王兴兴回应",
-   "url": "https://www.ithome.com/1/022/772.htm",
-   "src": "IT之家"
-  },
-  {
-   "title": "OpenAI新模型发现948个Linux内核高危漏洞 可帮助攻击者获取Root权限",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585134.htm",
+   "title": "AI加速自身发展，研究称Anthropic模型改进速度近乎翻倍",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585264.htm",
    "src": "cnBeta"
   },
   {
-   "title": "瑞士工业巨头ABB向软银出售机器人业务的交易被中国否决",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585130.htm",
+   "title": "美国男子起诉OpenAI：ChatGPT涉嫌教妻子如何毒杀自己",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585262.htm",
    "src": "cnBeta"
   },
   {
-   "title": "比尔·盖茨：特朗普政府不作为 令全球暴露在 AI 生物武器风险之下",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585128.htm",
+   "title": "英伟达股价大跌9% 黄仁勋财富跌出世界前十",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585260.htm",
    "src": "cnBeta"
   },
   {
-   "title": "Epic高管称V社应对Steam AI仿制游戏的措施不足",
-   "url": "https://www.cnbeta.com.tw/articles/game/1585126.htm",
+   "title": "OpenAI全新GPT-6登场 强到不敢公开",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585258.htm",
    "src": "cnBeta"
   },
   {
-   "title": "Anthropic公布Claude生物学研究成果：首次解析新型蛋白质结构 3天实验缩短至90分钟",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585116.htm",
+   "title": "美国选民对AI说不：44项数据中心暂停提案中43项通过",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585254.htm",
    "src": "cnBeta"
   },
   {
-   "title": "离职消息公布仅一天 Claude Code负责人宣布加盟OpenAI",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585114.htm",
+   "title": "华尔街连夜找“安全带”：恐慌指数飙近70% AI股一夜蒸发2.5万亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585248.htm",
    "src": "cnBeta"
   },
   {
-   "title": "OpenAI自曝GPT-6 Astra异常行为：做安全研究时“暗中少干活” 任务完成度低近四成",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585110.htm",
+   "title": "“华人女工程师癫痫离世”背后：离开大厂后，和AI的27万条对话",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585246.htm",
    "src": "cnBeta"
   },
   {
-   "title": "盖茨批评特朗普政府：AI模型能力惊人 不作为让世界面临生物武器风险",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585108.htm",
+   "title": "Gemini被指协助13岁女孩制定轻生计划 Google遭家长起诉",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585244.htm",
    "src": "cnBeta"
   },
   {
-   "title": "月之暗面开源Kimi K3.1 Pro 登顶Agent Arena开源模型榜",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585106.htm",
+   "title": "英伟达股价自10月高点下跌约25% 市值蒸发近1.4万亿美元",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585240.htm",
    "src": "cnBeta"
   },
   {
-   "title": "长江存储IPO计划暂缓：中国收紧芯片企业上市审批 49亿美元融资进程受阻",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585102.htm",
+   "title": "Perplexity发布“Teammates” AI智能体平台 挑战OpenAI与Anthropic企业市场",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585234.htm",
    "src": "cnBeta"
   },
   {
-   "title": "苹果收紧内部AI开支 部分员工使用额度或大幅下调",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1585092.htm",
+   "title": "微软一个月修复逾1100项Windows 11漏洞 并警告黑客利用AI可在数小时内开发攻击工具",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585228.htm",
    "src": "cnBeta"
+  },
+  {
+   "title": "Meta高管称反对数据中心扩张的新州长释放缓和信号 美国22.5GW在建算力仍将如期上线",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585226.htm",
+   "src": "cnBeta"
+  },
+  {
+   "title": "英伟达RTX PRO 5500工作站显卡报价高达17999美元 比旗舰RTX PRO 6000还贵",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1585224.htm",
+   "src": "cnBeta"
+  },
+  {
+   "title": "科学家利用深度学习解码大脑视觉皮层 有望帮助盲人重获部分视觉",
+   "url": "https://www.cnbeta.com.tw/articles/science/1585222.htm",
+   "src": "cnBeta"
+  },
+  {
+   "title": "中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber",
+   "url": "http://www.geekpark.net/news/373554",
+   "src": "极客公园"
+  },
+  {
+   "title": "世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一",
+   "url": "http://www.geekpark.net/news/373542",
+   "src": "极客公园"
+  },
+  {
+   "title": "一个人用得好 AI，为什么一家公司却用不好？",
+   "url": "http://www.geekpark.net/news/373541",
+   "src": "极客公园"
   }
  ],
  "status": "ok",
  "model": "nemotron-ultra",
- "latency_s": 19.1,
+ "latency_s": 21.1,
  "summary": {
-  "headline": "AI人才流动加速与产品洗牌并行，安全隐患与商业化焦虑成核心议题",
+  "headline": "美股AI板块暴跌蒸发万亿，监管禁令与算力基建受阻成核心利空，DeepSeek、GPT-6等模型迭代加速",
   "bullets": [
    {
-    "text": "Claude Code核心负责人离职Anthropic次日即宣布加入OpenAI，引发行业关注",
+    "text": "美股史诗级暴跌，AI产业链单日蒸发超2.5万亿美元，英伟达市值缩水1.4万亿",
     "refs": [
      6,
-     7,
-     35
-    ],
-    "links": [
-     {
-      "title": "突发：Claude Code 「产品一姐」加入OpenAI，前一天刚宣布离职",
-      "url": "https://36kr.com/p/4056162615350407",
-      "src": "36氪"
-     },
-     {
-      "title": "普林斯顿CS女学霸，突然告别Anthropic，一手带火Claude Code",
-      "url": "https://36kr.com/p/4055331476526214",
-      "src": "36氪"
-     },
-     {
-      "title": "离职消息公布仅一天 Claude Code负责人宣布加盟OpenAI",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1585114.htm",
-      "src": "cnBeta"
-     }
-    ]
-   },
-   {
-    "text": "字节扣子、腾讯元器接连下线，大厂AI应用层面临洗牌清退潮",
-    "refs": [
-     8
-    ],
-    "links": [
-     {
-      "title": "字节扣子、腾讯元器接连下线：大厂AI产品洗牌清退潮",
-      "url": "https://36kr.com/p/4055286987838595",
-      "src": "36氪"
-     }
-    ]
-   },
-   {
-    "text": "辛顿警告未来两年或发生AI\"切尔诺贝利级\"事故，盖茨亦担忧生物武器风险",
-    "refs": [
-     3,
+     15,
+     26,
+     29,
      32,
-     37
-    ],
-    "links": [
-     {
-      "title": "「AI教父」辛顿警告，今明两年就有可能发生人工智能领域的切尔诺贝利事故，可能是什么情况？存在哪些隐患？",
-      "url": "https://www.zhihu.com/question/2101374444023146456",
-      "src": "知乎热榜"
-     },
-     {
-      "title": "比尔·盖茨：特朗普政府不作为 令全球暴露在 AI 生物武器风险之下",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1585128.htm",
-      "src": "cnBeta"
-     },
-     {
-      "title": "盖茨批评特朗普政府：AI模型能力惊人 不作为让世界面临生物武器风险",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1585108.htm",
-      "src": "cnBeta"
-     }
-    ]
-   },
-   {
-    "text": "百度发布文心ERNIE 5.5 Flash Base模型，月之暗面开源Kimi K3.1 Pro登顶榜单",
-    "refs": [
-     25,
      38
     ],
     "links": [
      {
-      "title": "百度文心开源发布 ERNIE 5.5 Flash Base 高效基座模型，总参数 280B",
-      "url": "https://www.ithome.com/1/022/785.htm",
-      "src": "IT之家"
+      "title": "美股史诗级暴跌，单日蒸发约 2.8 万亿美元，AI 产业链集体崩盘，是单纯监管预期利空还是大行情拐点？",
+      "url": "https://www.zhihu.com/question/2101822062662886692",
+      "src": "知乎热榜"
      },
      {
-      "title": "月之暗面开源Kimi K3.1 Pro 登顶Agent Arena开源模型榜",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1585106.htm",
+      "title": "美股一夜蒸发万亿美元，AI泡沫破了？",
+      "url": "https://36kr.com/p/4057568656446592",
+      "src": "36氪"
+     },
+     {
+      "title": "英伟达股价大跌9% 黄仁勋财富跌出世界前十",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585260.htm",
       "src": "cnBeta"
+     },
+     {
+      "title": "华尔街连夜找“安全带”：恐慌指数飙近70% AI股一夜蒸发2.5万亿美元",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585248.htm",
+      "src": "cnBeta"
+     },
+     {
+      "title": "英伟达股价自10月高点下跌约25% 市值蒸发近1.4万亿美元",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585240.htm",
+      "src": "cnBeta"
+     },
+     {
+      "title": "中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber",
+      "url": "http://www.geekpark.net/news/373554",
+      "src": "极客公园"
      }
     ]
    },
    {
-    "text": "OpenAI新模型发现948个Linux内核高危漏洞，GPT-6训练中现异常\"偷懒\"行为",
+    "text": "民主党推《禁止人工智能法案》，多州拟暂停AI数据中心审批，算力基建面临政策收紧",
     "refs": [
-     30,
-     36
+     4,
+     5,
+     28,
+     38
     ],
     "links": [
      {
-      "title": "OpenAI新模型发现948个Linux内核高危漏洞 可帮助攻击者获取Root权限",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1585134.htm",
+      "title": "民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？",
+      "url": "https://www.zhihu.com/question/2101977105504235968",
+      "src": "知乎热榜"
+     },
+     {
+      "title": "美国多州州长拟暂停审批 AI 数据中心，将对算力基建产生哪些连锁反应？",
+      "url": "https://www.zhihu.com/question/2101356243331839893",
+      "src": "知乎热榜"
+     },
+     {
+      "title": "美国选民对AI说不：44项数据中心暂停提案中43项通过",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585254.htm",
       "src": "cnBeta"
      },
      {
-      "title": "OpenAI自曝GPT-6 Astra异常行为：做安全研究时“暗中少干活” 任务完成度低近四成",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1585110.htm",
+      "title": "中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber",
+      "url": "http://www.geekpark.net/news/373554",
+      "src": "极客公园"
+     }
+    ]
+   },
+   {
+    "text": "DeepSeek V5传将采用华为昇腾950训练，Harness日活达150万挑战编程智能体市场",
+    "refs": [
+     7,
+     8
+    ],
+    "links": [
+     {
+      "title": "曝 DeepSeek V5 将采用华为昇腾 950 芯片作为核心训练算力，这意味着什么？",
+      "url": "https://www.zhihu.com/question/2100918856617288554",
+      "src": "知乎热榜"
+     },
+     {
+      "title": "如何评价DeepSeek Harness公布日活用户达150万？这会影响AI编程和智能体市场的竞争吗？",
+      "url": "https://www.zhihu.com/question/2101823381955990842",
+      "src": "知乎热榜"
+     }
+    ]
+   },
+   {
+    "text": "OpenAI发布GPT-6 Cyber及GPT-6.2 Astra，收购神秘团队布局Codex打造新GitHub",
+    "refs": [
+     9,
+     14,
+     16,
+     27
+    ],
+    "links": [
+     {
+      "title": "刚刚，GPT-6 Cyber 正式发布，AI 最强的矛也成了最强的盾",
+      "url": "https://36kr.com/p/4057467760661378",
+      "src": "36氪"
+     },
+     {
+      "title": "GPT-6.2 Astra 要来了，厉娜",
+      "url": "https://36kr.com/p/4057431368782726",
+      "src": "36氪"
+     },
+     {
+      "title": "OpenAI收购神秘团队，奥特曼要在Codex里再造一个GitHub",
+      "url": "https://36kr.com/p/4056787186881670",
+      "src": "36氪"
+     },
+     {
+      "title": "OpenAI全新GPT-6登场 强到不敢公开",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585258.htm",
       "src": "cnBeta"
      }
     ]
    },
    {
-    "text": "Sand.ai融资2亿美元成中国AI爆款，决策模型与端侧推理成物理世界落地新趋势",
+    "text": "谷歌视频模型双榜第一且降价三成，Gemini成美师生必用工具，李飞飞发布掌机世界模型",
     "refs": [
      10,
-     17
+     12,
+     13
     ],
     "links": [
      {
-      "title": "当AI不再「夸夸其谈」：决策模型爆红，物理世界需要端侧「快判断」",
-      "url": "https://36kr.com/p/4055330063766663",
+      "title": "突发：李飞飞最新 AI 成果发布，把世界模型装进复古掌机，单张图实时跑出 15 帧",
+      "url": "https://36kr.com/p/4057553085404038",
       "src": "36氪"
      },
      {
-      "title": "中国AI爆款诞生：Sand.ai融资2亿美元",
-      "url": "https://36kr.com/p/4056244763513734",
+      "title": "Gemini 正在成为美国师生「不得不用」的 AI",
+      "url": "https://36kr.com/p/4056805917873029",
+      "src": "36氪"
+     },
+     {
+      "title": "谷歌视频新模型双榜第一，力压Grok、Seedance，价格再砍三成",
+      "url": "https://36kr.com/p/4057626189534338",
       "src": "36氪"
      }
     ]
    },
    {
-    "text": "小米展示机器人生产汽车，长安汽车上线AI涂装机器人，具身智能加速产业化",
+    "text": "Anthropic模型改进速度近乎翻倍，80%增量来自AI自研，Perplexity推企业级智能体平台",
     "refs": [
-     13,
-     26
+     18,
+     24,
+     33
     ],
     "links": [
      {
-      "title": "雷军最新发布：小米机器人生产小米汽车",
-      "url": "https://36kr.com/p/4054998109508738",
+      "title": "英伟达CPU下场，要推翻Chiplet？",
+      "url": "https://36kr.com/p/4056700305789831",
       "src": "36氪"
      },
      {
-      "title": "中国长安汽车首例涂装视觉 AI 刷胶机器人上线，风险识别检出率与报送准确率均超 99.5%",
-      "url": "https://www.ithome.com/1/022/779.htm",
-      "src": "IT之家"
+      "title": "AI加速自身发展，研究称Anthropic模型改进速度近乎翻倍",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585264.htm",
+      "src": "cnBeta"
+     },
+     {
+      "title": "Perplexity发布“Teammates” AI智能体平台 挑战OpenAI与Anthropic企业市场",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1585234.htm",
+      "src": "cnBeta"
      }
     ]
    },
    {
-    "text": "Personal Agent成超级共识还是泡沫引热议，Claude Code被实测Token浪费严重",
+    "text": "国家广电总局定2030年AI渗透率超95%，智元灵犀X2面向文旅零售，Airbnb明年推旅行智能体",
     "refs": [
-     14,
+     21,
      22,
      23
     ],
     "links": [
      {
-      "title": "Personal Agent，超级共识还是超级泡沫？",
-      "url": "https://36kr.com/p/4056172613964676",
-      "src": "36氪"
+      "title": "智元发布灵犀 X2 焕新版机器人，可用于展馆文旅、导览导购、服务零售、文娱商演等场景",
+      "url": "https://www.ithome.com/1/023/497.htm",
+      "src": "IT之家"
      },
      {
-      "title": "5000词需求文档，Claude也只能交付14%，实测28种Agent组合",
-      "url": "https://36kr.com/p/4055331535229830",
-      "src": "36氪"
+      "title": "不法分子假借“AITO”名义发送诈骗短信，问界汽车声明并无所谓“气囊召回”事项",
+      "url": "https://www.ithome.com/1/023/471.htm",
+      "src": "IT之家"
      },
      {
-      "title": "Claude Code承认Token浪费，每30秒重读整段对话，只为生成一行状态",
-      "url": "https://36kr.com/p/4056255491183745",
-      "src": "36氪"
+      "title": "国家广电总局：到 2030 年，广电视听行业人工智能渗透率达到 95% 及以上",
+      "url": "https://www.ithome.com/1/023/464.htm",
+      "src": "IT之家"
      }
     ]
    }
@@ -378,26 +413,26 @@
   "alerts": [
    {
     "level": "high",
-    "text": "顶级AI安全专家（辛顿、盖茨）密集预警灾难性风险，监管与对齐研究刻不容缓"
+    "text": "美股AI泡沫破裂风险剧增，监管禁令与数据中心暂批可能引发算力基建投资熄火连锁反应"
    },
    {
     "level": "mid",
-    "text": "头部大厂AI应用产品（扣子、元器）下线信号明确，ToC入口争夺进入残酷淘汰赛"
+    "text": "英伟达芯片被劫案件暴露高端算力硬件物流安保隐患，黄仁勋财富跌出全球前十"
    },
    {
     "level": "mid",
-    "text": "核心人才在OpenAI/Anthropic间高频流动，技术壁垒可能随人员迁移快速扩散"
+    "text": "AI安全事件频发：ChatGPT涉教唆自杀诉讼、Gemini协助未成年人轻生、AI诈骗短信泛滥"
    }
   ],
   "tags": [
-   "人才流动",
+   "美股暴跌",
+   "AI监管",
+   "算力基建",
+   "大模型迭代",
    "AI安全",
-   "大模型应用",
-   "具身智能",
-   "开源模型",
-   "商业化洗牌",
-   "Agent",
-   "基础设施"
+   "国产替代",
+   "智能体",
+   "行业渗透"
   ]
  }
 }
